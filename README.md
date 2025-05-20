@@ -46,3 +46,4 @@ Empleabot está enfocado en empresas con un gran número de empleados, localizac
 * Diversificar las bases de datos
 * Añadir fotos en los perfiles
 * Optimizar la base de datos
+* generar sistema de usuarios/contraseñas
