@@ -1,6 +1,6 @@
 # Empleabot - Chatbot con n8n
 
-**##Problema a solucionar**
+**Problema a solucionar**
 Enfocado en empresas de una gran cantidad de empleados, localizaciones y departamentos que llegar a saber quien te puede ayudar o quien es el jefe de x proyecto o quien esta en recursos humanos en la sede  de valecian. Empleabot es un chatbot conectado a una base de datos Supabase que soluciona esa búsqueda a golpe de click
 
   ##Ejemplo preguntas:
@@ -8,6 +8,7 @@ Enfocado en empresas de una gran cantidad de empleados, localizaciones y departa
   -¿Que proyectos hay?
   
   -¿Quién me puede ayudar con mi nómina?
+  
   -¿Quién trabaja en madrid?
 
 
