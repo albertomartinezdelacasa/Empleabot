@@ -61,15 +61,12 @@ export const Chatbot = () => {
         <div
             id="fullscreen-chat-container"
             style={{
-                // Contenedor que ocupa el espacio disponible sin scroll
                 position: "relative",
                 width: "100%",
                 height: "100%",
-                // Centrar el contenido
                 display: "flex",
                 justifyContent: "center",
                 alignItems: "center",
-                // Padding mínimo para maximizar espacio
                 padding: "0.5rem",
             }}
         >
