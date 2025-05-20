@@ -2,7 +2,7 @@
 
 ## Problema a solucionar
 
-Empleabot está enfocado en empresas con gran cantidad de empleados, localizaciones y departamentos. Facilita la búsqueda de información como: quién puede ayudarte con un tema específico, quién es el jefe de un proyecto, o quién trabaja en recursos humanos en una sede determinada. Conectado a una base de datos Supabase, Empleabot soluciona estas búsquedas a golpe de clic.
+Empleabot está enfocado en empresas con un gran número de empleados, localizaciones y departamentos. A mayor número es mas complicado perderse en el organigrama o en la jerarquia de a quién pedir ayuda. Este chatbot facilita la búsqueda de información como: quién puede ayudarte con un tema específico, quién es el jefe de un proyecto, o quién trabaja en recursos humanos en una sede determinada. Conectado a una base de datos Supabase, Empleabot soluciona estas búsquedas a golpe de clic.
 
 ### Ejemplo de preguntas:
 - ¿Qué proyectos hay?
