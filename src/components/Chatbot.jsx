@@ -40,7 +40,7 @@ export const Chatbot = () => {
                     subtitle: "",
                     footer: "",
                     getStarted: "Comenzar chat",
-                    inputPlaceholder: "¿Dame alguna pista?",
+                    inputPlaceholder: "Dime alguna pista",
                 },
             },
 
