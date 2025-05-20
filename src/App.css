@@ -1,0 +1,73 @@
+/* Estilos para la aplicación principal - Paleta minimalista */
+:root {
+    /* Usar las mismas variables de color que en Chatbot.css */
+    --app-color-primary: #4A6D7C;
+    --app-color-dark: #2C3333;
+    --app-color-medium: #395B64;
+    --app-color-light: #E7F6F2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, var(--app-color-dark) 0%, var(--app-color-medium) 100%);
+    color: var(--app-color-light);
+    min-height: 100vh;
+}
+
+.app-container {
+    padding: 1rem;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.app-header {
+    margin-bottom: 0.5rem;
+    animation: fadeIn 1s ease-out;
+    padding: 0.5rem 0;
+}
+
+.app-title {
+    color: var(--app-color-light);
+    font-size: 2rem;
+    margin: 0;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.app-subtitle {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1rem;
+    margin: 0.2rem 0 0.5rem;
+    font-weight: 300;
+}
+
+/* Efecto de gradiente en el texto del título */
+.app-title {
+    background: linear-gradient(to right, #E7F6F2, #4A6D7C);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+
+/* Animación de entrada */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
