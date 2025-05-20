@@ -14,7 +14,7 @@ Empleabot está enfocado en empresas con un gran número de empleados, localizac
 - **Supabase**: Base de datos PostgreSQL
 - **n8n Chat API**: API para la integración de chatbots inteligentes
   - Trigger chat conectado a AI Agent, usando la API de OpenAI como cerebro y Supabase como base de datos
-- **React**: UseEffect para renderizar el chat
+- **React(vite)**: UseEffect para renderizar el chat
 
 ## Estructura de la Base de Datos
 
