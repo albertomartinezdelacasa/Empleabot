@@ -5,9 +5,10 @@ Enfocado en empresas de una gran cantidad de empleados, localizaciones y departa
 
   ##Ejemplo preguntas:
 
-  ¿Que proyectos hay?
-  ¿Quien me puede ayudar con mi nómina?
-  ¿Quien trabaja en madrid?
+  -¿Que proyectos hay?
+  
+  -¿Quién me puede ayudar con mi nómina?
+  -¿Quién trabaja en madrid?
 
 
 ## Tecnologías utilizadas
